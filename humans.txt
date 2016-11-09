@@ -1,0 +1,11 @@
+/* TEAM */
+Developer & Designer: Fernando Franco Giráldez
+Twitter: @thanerian
+Site: https://ffgiraldez.github.io/
+Location: Seville, Andalucia, Spain
+						
+/* SITE */
+Last update: 10/11/2016
+Standards: HTML5, CSS3
+Components: Jekyll
+Software: Sublime Text, Scketch

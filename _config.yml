@@ -1,0 +1,39 @@
+# Site settings
+title: Fernando Franco Giráldez
+description: 'Father, sometimes Mobile Developer, well sometimes...'
+url: 'https://ffgiraldez.github.io/'
+baseurl: '/'
+google_analytics: 'UA-32969708-5'
+disqus_shortname: 'ffgiraldezgithub'
+
+author:
+  name: 'Fernando Franco Giráldez'
+  email: ffrancogiraldez@gmail.com
+  twitter_username: thanerian  
+  github_username:  ffgiraldez
+  linkedin_username:  ffgiraldez
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+future: true
+destination: _site
+paginate: 5
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+gems: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
