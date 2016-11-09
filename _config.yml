@@ -6,6 +6,8 @@ baseurl: '/'
 google_analytics: 'UA-32969708-5'
 disqus_shortname: 'ffgiraldezgithub'
 
+excerpt_separator: <!--more-->
+
 author:
   name: 'Fernando Franco Giráldez'
   email: ffrancogiraldez@gmail.com
@@ -36,4 +38,9 @@ kramdown:
   hard_wrap: false
 
 gems: ['jekyll-paginate']
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
+exclude: [
+  'README.md', 
+  'Gemfile', 
+  'Gemfile.lock', 
+  'LICENSE'
+]
