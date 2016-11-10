@@ -4,22 +4,22 @@ title: About
 permalink: /about/
 ---
 
-### ¿Quien es ese tio?
+### Who is that guy?
 
-Padre de una niña maravilla, afincado en Utrera, España trabajo en [TU][tu] para Telefonica&nbsp;I+D como desarrollor mobile,
-llevo en el carro de desarollo de apps nativas mas de 4 años, tengo varios pet proyect activos con los que voy jugando
-y ademas en trabajos anteriores he realizado varios videojuegos para PS4/PS3/Vita.
+Father of a wonderful girl I settled in Utrera, Spain I work in [TU][tu]
+inside of **Telefonica&nbsp;I+D** as Mobile Developer,
+I've been working developing mobile apps more than 4 years and
+I have some side projects active where usually apply new techniques and paradigms.
+I have been working also in various videogames for PS4/PS3/Vita.
 
-### Que vas a encontrar aqui
+### What are you gonna found here?
 
-Soy un desarrollador de software, especializado en desarrollo de apps nativas, en sus principales plataformas(Android/iOS), por lo que
-veras cosas especificas de estas, aunque tambien tengo puesto el ojo en frameworks/tools multiplataforma como [Xamarin][xamarin]
+I'm a Software Developer, specialized in Native Mobile Applications,
+in their main flavors (Android/iOS), due of that, I have interest on frameworks/tools that help
+me develop multiplatform applications like [Xamarin][xamarin]
 
-En cuanto a desarrollo general, aunque suene a topico, en mis desarrollos intento (a veces no consigo todo lo que me gustaria) aplicar
-**SOLID**, seguir mi propio camino hacia una **Clean Architecture**, jugar con **Reactive Programing** y **MVVM**,
-y tener algun que otro **test unitario** y en general cualquier cosa, como dicen algun compañero del sector, que me ayude
-a dormir por las noches sabiendo que no he roto nada durante el dia.
-
+When develop, you should see lot of buzzword, I try to apply (sometimes I cannot do all that I want)
+**SOLID** principles, follow my own approach of a **Clean Architecture**, I love play with **Reactive Programing** and **MVVM**, all of that covered with some **Unit Test**, in general, like a sector teammate said, I try to use everything that let's me sleep at night with the knowlege that I don't break nothing during the day.
 
  [//]: # "links"
 
