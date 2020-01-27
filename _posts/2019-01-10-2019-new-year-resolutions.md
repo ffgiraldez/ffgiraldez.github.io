@@ -2,7 +2,7 @@
 title:  "2018 Review and new year resolution"
 date:   2019-01-10
 categories: [new year resolution]
-tags: [objetives]
+tags: [objectives]
 
 ---
 A finales del 2017 pase por  un cambio brusco laboral con un futuro incierto el cual me planteo por
